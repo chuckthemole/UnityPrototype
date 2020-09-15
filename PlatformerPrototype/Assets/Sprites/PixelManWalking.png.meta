@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: a6604872093b95b40992cdbb883c8aa6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3297411951660006327
+    second: PixelManWalkingRight_0
+  - first:
+      213: -5466367800334250424
+    second: PixelManWalkingRight_1
+  - first:
+      213: 4934215873793767317
+    second: PixelManWalkingRight_2
+  - first:
+      213: -8777722496345873817
+    second: PixelManWalkingRight_3
+  - first:
+      213: 750989123105646508
+    second: PixelManWalkingRight_4
+  - first:
+      213: -1785875409649110646
+    second: PixelManWalkingRight_5
+  - first:
+      213: 7545237977372278671
+    second: PixelManWalkingRight_6
+  - first:
+      213: -1919807953429279921
+    second: PixelManWalkingRight_7
+  - first:
+      213: 6448651390319799179
+    second: PixelManWalkingRight_8
+  - first:
+      213: -5974991148922616801
+    second: PixelManWalkingRight_9
+  - first:
+      213: 8463734961510345288
+    second: PixelManWalkingRight_10
+  - first:
+      213: 8515245385608154140
+    second: PixelManWalkingRight_11
+  - first:
+      213: -3131256182822000985
+    second: PixelManWalkingLeft_0
+  - first:
+      213: 3087511532181968870
+    second: PixelManWalkingLeft_1
+  - first:
+      213: -145278218253716597
+    second: PixelManWalkingLeft_2
+  - first:
+      213: 5288937035094317142
+    second: PixelManWalkingLeft_3
+  - first:
+      213: 1233047452317614575
+    second: PixelManWalkingLeft_4
+  - first:
+      213: 4318955036216002132
+    second: PixelManWalkingLeft_5
+  - first:
+      213: -6952117124761025661
+    second: PixelManWalkingLeft_6
+  - first:
+      213: 7824743400107501595
+    second: PixelManWalkingLeft_7
+  - first:
+      213: 3399457142610435393
+    second: PixelManWalkingLeft_8
+  - first:
+      213: -1440369420597838068
+    second: PixelManWalkingLeft_9
+  - first:
+      213: 6523133147305978751
+    second: PixelManWalkingLeft_10
+  - first:
+      213: 6092933689051472973
+    second: PixelManWalkingLeft_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelManWalkingRight_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 644
+        width: 184
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9448d27ec4d3d32d0800000000000000
+      internalID: -3297411951660006327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingRight_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 644
+        width: 183
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e8179927f8324b0800000000000000
+      internalID: -5466367800334250424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingRight_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 644
+        width: 183
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5973292d13bd97440800000000000000
+      internalID: 4934215873793767317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingRight_3
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 644
+        width: 183
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762695c55e34f2680800000000000000
+      internalID: -8777722496345873817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingRight_4
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 644
+        width: 183
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7e4e8e0ac0c6a00800000000000000
+      internalID: 750989123105646508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingRight_5
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 644
+        width: 183
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8172c2e6cb4737e0800000000000000
+      internalID: -1785875409649110646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingRight_6
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 644
+        width: 184
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fbf0bc6f116b860800000000000000
+      internalID: 7545237977372278671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingRight_7
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 644
+        width: 184
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bc0e286d87b55e0800000000000000
+      internalID: -1919807953429279921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingRight_8
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 644
+        width: 199
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b2758e5463e7950800000000000000
+      internalID: 6448651390319799179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingRight_9
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 644
+        width: 198
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f144d58f431941da0800000000000000
+      internalID: -5974991148922616801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingRight_10
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 644
+        width: 199
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ae0edca1a357570800000000000000
+      internalID: 8463734961510345288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingRight_11
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 644
+        width: 184
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c4570009a3c2670800000000000000
+      internalID: 8515245385608154140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingLeft_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 238
+        width: 184
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a62622871b8b84d0800000000000000
+      internalID: -3131256182822000985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingLeft_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 238
+        width: 197
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7d0a3516b09da20800000000000000
+      internalID: 3087511532181968870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingLeft_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 238
+        width: 199
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83b26fea3edbfdf0800000000000000
+      internalID: -145278218253716597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingLeft_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 238
+        width: 199
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65854302634166940800000000000000
+      internalID: 5288937035094317142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingLeft_4
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 238
+        width: 184
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1879aff1aac1110800000000000000
+      internalID: 1233047452317614575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingLeft_5
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 238
+        width: 183
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4560a8ef8b200fb30800000000000000
+      internalID: 4318955036216002132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingLeft_6
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 238
+        width: 183
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38385b51f4e158f90800000000000000
+      internalID: -6952117124761025661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingLeft_7
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 238
+        width: 184
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b186df54aa2179c60800000000000000
+      internalID: 7824743400107501595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingLeft_8
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 238
+        width: 183
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d9576924c4d2f20800000000000000
+      internalID: 3399457142610435393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingLeft_9
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 238
+        width: 183
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f3ee3b4a7c20ce0800000000000000
+      internalID: -1440369420597838068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingLeft_10
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 238
+        width: 184
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bafb35903d68a50800000000000000
+      internalID: 6523133147305978751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManWalkingLeft_11
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 238
+        width: 184
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d446cef88e27e8450800000000000000
+      internalID: 6092933689051472973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
