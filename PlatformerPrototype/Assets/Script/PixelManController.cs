@@ -38,17 +38,9 @@ public class PixelManController : MonoBehaviour
     public bool PlayerIsOnGround()
     {
         // 1
-        bool groundCheck1 = Physics2D.Raycast(new Vector2(
-        transform.position.x, transform.position.y - height),
-        -Vector2.up, rayCastLengthCheck);
-        bool groundCheck2 = Physics2D.Raycast(new Vector2(
-        transform.position.x + (width - 0.2f),
-        transform.position.y - height), -Vector2.up,
-        rayCastLengthCheck);
-        bool groundCheck3 = Physics2D.Raycast(new Vector2(
-        transform.position.x - (width - 0.2f),
-        transform.position.y - height), -Vector2.up,
-        rayCastLengthCheck);
+        bool groundCheck1 = Physics2D.Raycast(new Vector2(transform.position.x, transform.position.y - height), -Vector2.up, rayCastLengthCheck);
+        bool groundCheck2 = Physics2D.Raycast(new Vector2(transform.position.x + (width - 0.2f), transform.position.y - height), -Vector2.up, rayCastLengthCheck);
+        bool groundCheck3 = Physics2D.Raycast(new Vector2(transform.position.x - (width - 0.2f), transform.position.y - height), -Vector2.up, rayCastLengthCheck);
         // 2
         if (groundCheck1 || groundCheck2 || groundCheck3)
         {
@@ -164,6 +156,7 @@ public class PixelManController : MonoBehaviour
         if (PlayerIsOnGround())
         {
             acceleration = accel;
+            animator.SetBool("IsOnGround", true);
         }
         else
         {
@@ -197,8 +190,7 @@ public class PixelManController : MonoBehaviour
         
         if (IsWallToLeftOrRight() && !PlayerIsOnGround() && input.y == 1)
         {
-            rb.velocity = new Vector2(-GetWallDirection() * speed
-            * 0.75f, rb.velocity.y);
+            rb.velocity = new Vector2(-GetWallDirection() * speed * 0.75f, rb.velocity.y);
             animator.SetBool("IsOnWall", false);
             animator.SetBool("IsJumping", true);
         }

@@ -26,7 +26,7 @@ public class CameraLerpToTransform : MonoBehaviour {
             var v3 = camPosition;
             var clampX = Mathf.Clamp(v3.x, minX, maxX);
             var clampY = Mathf.Clamp(v3.y, minY, maxY);
-            transform.position = new Vector3(clampX, clampY + .15f, -10f);
+            transform.position = new Vector3(clampX, clampY + 1.4f, -10f);
         }
     }
 }
